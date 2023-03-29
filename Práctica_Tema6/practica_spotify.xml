@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="practica_spotify.xsl" ?>
+
+<spotify nombre="Listas Spotify">
+	<titulo>Canciones más escuchadas en Spotify</titulo>
+	<lista_de_reproduccion>
+		<cancion> 
+			<numreproducciones>10.965.528</numreproducciones>
+			<nombre>Last Kiss of Nebulon</nombre>
+			<duracion>4:18</duracion>
+			<album>Alone At Prom</album>
+			<fecha_album>10/12/2021</fecha_album>
+			<artista>Tory Lanez</artista>
+		</cancion>
+		<cancion> 
+			<numreproducciones>34.700.256</numreproducciones>
+			<nombre>Always Forever</nombre>
+			<duracion>2:50</duracion>
+			<album>ANNIVERSARY</album>
+			<fecha_album>02/10/2020</fecha_album>
+			<artista>Bryson Tiller</artista>
+		</cancion>
+		<cancion> 
+			<numreproducciones>679.371.787</numreproducciones>
+			<nombre>Under The Influence</nombre>
+			<duracion>3:04</duracion>
+			<album>Indigo (Extended)</album>
+			<fecha_album>04/10/2019</fecha_album>
+			<artista>Chris Brown</artista>
+		</cancion>
+		<cancion>
+			<numreproducciones>94.581.447</numreproducciones>
+			<nombre>Too Many Nights</nombre>
+			<duracion>3:19</duracion>
+			<album>Heroes and Villains</album>
+			<fecha_album>02/12/2022</fecha_album>
+			<artista>Metro Boomin, Don Toliver, Future</artista>
+		</cancion>
+		<cancion>
+			<numreproducciones>225.576.324</numreproducciones>
+			<nombre>Rockin'</nombre>
+			<duracion>3:52</duracion>
+			<album>Starboy</album>
+			<fecha_album>25/11/2016</fecha_album>
+			<artista>The Weeknd</artista>
+		</cancion>
+		<cancion> 
+			<numreproducciones>415.329.867</numreproducciones>
+			<nombre>Sky</nombre>
+			<duracion>3:13</duracion>
+			<album>Whole Lotta Red</album>
+			<fecha_album>25/12/2020</fecha_album>
+			<artista>Playboi Carti</artista>
+		</cancion>
+	</lista_de_reproduccion>
+	
+	<caratula_album>
+		<top>Ganador de la tabla anterior</top>
+		<sub>Menciones honorables</sub>
+		<album>
+			<id>1</id>
+			<artista>Chris Brown</artista>
+			<genero>Hip Hop, RnB</genero>
+			<disco>Indigo (Extended)</disco>
+			<track num="1">Lower Body</track>
+			<track num="2">Overtime</track>
+			<track num="3">Under The Influence</track>
+		</album>
+		<album>
+			<id>2</id>
+			<artista>Playboi Carti</artista>
+			<genero>Rap</genero>
+			<disco>Whole Lotta Red</disco>
+			<track num="4">Rockstar Made</track>
+			<track num="5">Go2DaMoon</track>
+			<track num="6">Stop Breathing</track>
+		</album>
+		<album>
+			<id>3</id>
+			<artista>The Weeknd</artista>
+			<genero>RnB</genero>
+			<track num="7">Starboy</track>
+			<track num="8">Party Monster</track>
+			<track num="9">False Alarm</track>
+		</album>
+	</caratula_album>
+</spotify>
